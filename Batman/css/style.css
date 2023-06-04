@@ -1,0 +1,19 @@
+header{text-align: center;}
+.titulo{text-transform: uppercase; color: #02507e;background-color: rgb(207, 207, 207);}
+h1{padding:10px;text-align: center;letter-spacing: 9px;}
+h2{padding:5px;text-align:left;letter-spacing: 4px;padding-left: 20px}
+.whitespace{padding:40px}
+.centrar{text-align: left;}
+.negrita{font-weight:bolder };
+ul{list-style-position:left;}
+span{font-style:italic}
+p{line-height: 0;text-align: left;padding-left: 20px;}
+.espacio{padding-left: 100px; padding-bottom: 6px;}
+.espacio2{padding-bottom: 50;}
+footer{text-align: center; background-color: #02507e; color: white;padding: 4px}
+
+
+
+
+
+
